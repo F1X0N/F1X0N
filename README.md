@@ -15,4 +15,6 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1X0N&layout=compact)](https://github.com/F1X0N/github-readme-stats)
+
 E-mail para contato: amorimjosivan7@gmail.com
